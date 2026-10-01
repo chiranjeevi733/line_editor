@@ -1,0 +1,6 @@
+Place your resume PDF here in this folder as: resume.pdf
+
+For example:
+public/resume.pdf
+
+Then update the link in src/data/portfolioData.js if needed.
